@@ -49,10 +49,4 @@ Note: The backend is not connected yet
 - Node.js and npm
 - Git
 
-### Installation
 
-```bash
-git clone https://github.com/VarunSugandhi/Advaya-Hackathon-Project-E001.git
-cd Advaya-Hackathon-Project-E001/Frontend
-npm install
-npm run dev
