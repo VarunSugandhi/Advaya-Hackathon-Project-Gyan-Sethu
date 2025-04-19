@@ -1,73 +1,52 @@
-# Welcome to your Lovable project
+# Advaya Hackathon Project E001
 
-## Project info
+> A lightweight Learning Management System (LMS) designed for **rural India**, built as part of the Advaya Hackathon 2025.
 
-**URL**: https://lovable.dev/projects/95212013-47a8-44fb-9b4b-82737f0a3e7e
+---
 
-## How can I edit this code?
+## 📚 Overview
 
-There are several ways of editing your application.
+This project aims to bridge the digital divide in education by providing an accessible, responsive, and user-friendly LMS platform. It empowers both students and educators with tools tailored to rural learning environments.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/95212013-47a8-44fb-9b4b-82737f0a3e7e) and start prompting.
+## ✨ Features
 
-Changes made via Lovable will be committed automatically to this repo.
+### 👩‍🏫 Educator Features
+- Upload and manage courses
+- Track revenue from paid courses
+- Dashboard to manage student progress
 
-**Use your preferred IDE**
+### 👨‍🎓 Student Features
+- Enroll in free and paid courses
+- AI-powered tutor for doubt-solving
+- Gamified progress with streaks and progress charts
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🧰 Tech Stack
 
-Follow these steps:
+| Tech         | Usage                         |
+|--------------|-------------------------------|
+| React (TS)   | Frontend framework             |
+| Tailwind CSS | UI styling                     |
+| Supabase     | Backend, Auth, and Database    |
+| Vite         | Build tool                     |
+| TypeScript   | Static typing                  |
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🚀 Getting Started
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Prerequisites
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+- Node.js and npm
+- Git
+
+### Installation
+
+```bash
+git clone https://github.com/VarunSugandhi/Advaya-Hackathon-Project-E001.git
+cd Advaya-Hackathon-Project-E001/Frontend
+npm install
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/95212013-47a8-44fb-9b4b-82737f0a3e7e) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
