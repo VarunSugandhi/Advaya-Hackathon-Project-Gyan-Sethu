@@ -38,7 +38,7 @@ This project aims to bridge the digital divide in education by providing an acce
 ## About the developer
 I am currently a first-year student pursuing Computer Science and Design. As part of my learning journey, I have gained experience in frontend development and am actively working on enhancing my backend skills. This project is a great opportunity for me to understand how the different parts of a full-stack application come together.
 
-I participated in the Advaya Hackathon to gain hands-on experience and a better understanding of real-world application development, especially in building impactful solutions for rural education.
+I and my team participated in the Advaya Hackathon to gain hands-on experience and a better understanding of real-world application development, especially in building impactful solutions for rural education.
 
 Note: The backend is not connected yet
 
