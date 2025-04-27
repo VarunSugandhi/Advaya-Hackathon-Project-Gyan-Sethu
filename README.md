@@ -44,6 +44,12 @@ Note: The backend is not connected yet
 
 ## 🚀 Getting Started
 
+git clone https://github.com/VarunSugandhi/Advaya-Hackathon-Project-Gyan-Sethu.git
+cd Advaya-Hackathon-Project-E001/Frontend
+npm install
+npm run dev
+
+
 ### Prerequisites
 
 - Node.js and npm
