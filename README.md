@@ -42,20 +42,17 @@ I and my team participated in the Advaya Hackathon to gain hands-on experience a
 
 Note: The backend is not connected yet
 
-## 🚀 Getting Started
+## 🚀 Getting Started (for developers)
 
-git clone https://github.com/VarunSugandhi/Advaya-Hackathon-Project-Gyan-Sethu.git
-
-cd Advaya-Hackathon-Project-Gyan-Sethu/Frontend
-
-npm install
-
-npm run dev
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/VarunSugandhi/Gyansethu-Advaya.git
+   cd IFrontend
+   npm install
+   npm run dev
 
 
 ### Prerequisites
 
 - Node.js and npm
 - Git
-
-
